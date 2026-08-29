@@ -33,6 +33,8 @@
   <a href="https://programmable.market/developers/custom-launch-api-v1.md">Custom Launch API</a>
   &nbsp;·&nbsp;
   <a href="https://programmable.market/docs">Docs</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/ProgrammableHQ">X</a>
 </p>
 
 <br />
@@ -66,7 +68,7 @@ Uniswap endorsement.
 
 | Repository | Responsibility |
 | --- | --- |
-| [PROGRAMMABLE-EVM](https://github.com/programmablehq/PROGRAMMABLE-EVM) | Application, EVM contracts, public read model and release evidence |
+| [PROGRAMMABLE](https://github.com/programmablehq/PROGRAMMABLE) | Application, EVM contracts, public read model and release evidence |
 | [Launch-Policy](https://github.com/programmablehq/Launch-Policy) | Versioned launch requirements, policies and machine-readable evidence contracts |
 | [Developers](https://github.com/programmablehq/Developers) | Discovery manifest, public API contracts and direct verification rules for integrations |
 
@@ -104,4 +106,6 @@ This unauthenticated discovery surface is separate from the authenticated Custom
   <a href="https://github.com/programmablehq/Launch-Policy">Launch policy</a>
   &nbsp;·&nbsp;
   <a href="https://programmable.market/docs">Docs</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/ProgrammableHQ">X</a>
 </p>
