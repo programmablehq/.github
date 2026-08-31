@@ -3,11 +3,11 @@
     <picture>
       <source
         media="(prefers-reduced-motion: reduce)"
-        srcset="./assets/profile/programmable-github-profile-night-garden-v3.png"
+        srcset="./assets/profile/programmable-github-profile-new-brand-v1.png"
       />
       <img
-        src="./assets/profile/programmable-github-profile-night-garden-v4.gif"
-        alt="Programmable's white loop mark above a colorful night garden while small round stars twinkle in a black sky"
+        src="./assets/profile/programmable-github-profile-new-brand-v1.gif"
+        alt="GitHub's centered white Octocat mark over a softly focused Programmable night garden while small round stars twinkle in a black sky"
         width="100%"
       />
     </picture>
