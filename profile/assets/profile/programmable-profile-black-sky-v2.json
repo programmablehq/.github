@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "scene": "Approved Programmable Night Garden scene 01",
+  "source_sha256": "449f1a7638cd2229bdefce54270386182188b77b942837eea80331a1d2a971ed",
+  "sky_mask_sha256": "53f18285781695c1bba22311a5bd693d93b2add442dad84ef04f64ea6c047026",
+  "logo_sha256": "b1603c255d52b72d82c7bd94e0b3da38e3fa12f48d0687fbefc707428bb5c8fd",
+  "dimensions": [1400, 700],
+  "source_crop": [0, 0, 2544, 1272],
+  "background": "Replace the full approved sky mask with RGB 0,0,0 before soft focus; restore pure black in the sky interior after blur. Never overlay stars on the original painted sky.",
+  "background_blur_px": 3.8,
+  "background_darkening": false,
+  "logo": "Exact white Programmable mark; transparent background; static and centered",
+  "star_count": 440,
+  "stars": "Round white points over the full sky mask, including behind transparent areas of the mark. No rectangular exclusion zone or vertical cutoff.",
+  "frames": 60,
+  "frame_duration_ms": 80,
+  "duration_seconds": 4.8,
+  "loop": "infinite",
+  "periodic_seam_verified": true,
+  "changed_pixels_outside_sky": 0,
+  "gif_sha256": "ad48f54d6692a0d9a2cc03b5970c19a1512999a760950b5dd55fb3ee25d1815b",
+  "png_sha256": "774099cddb4af9c82b7b7d2b1e1d89f4e1f23d834f97408acb187e4d2c5a21a9"
+}

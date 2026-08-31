@@ -3,11 +3,11 @@
     <picture>
       <source
         media="(prefers-reduced-motion: reduce)"
-        srcset="./assets/profile/programmable-github-profile-new-brand-v1.png"
+        srcset="./assets/profile/programmable-profile-black-sky-v2.png"
       />
       <img
-        src="./assets/profile/programmable-github-profile-new-brand-v1.gif"
-        alt="GitHub's centered white Octocat mark over a softly focused Programmable night garden while small round stars twinkle in a black sky"
+        src="./assets/profile/programmable-profile-black-sky-v2.gif"
+        alt="The white Programmable logo centered over a softly focused floral garden with round white stars twinkling across a deep-black sky"
         width="100%"
       />
     </picture>
@@ -73,16 +73,6 @@ Uniswap endorsement.
 | [Developers](https://github.com/programmablehq/Developers) | Discovery manifest, public API contracts and direct verification rules for integrations |
 
 ## Integrate without guessing
-
-<p align="center">
-  <a href="https://programmable.market/docs/developers">
-    <img
-      src="./assets/profile/programmable-profile-ecosystem-v4.jpg"
-      alt="Distinct flowering islands connected through one coherent Programmable night garden"
-      width="100%"
-    />
-  </a>
-</p>
 
 [Programmable Developers](https://github.com/programmablehq/Developers) defines the Router-first verification path,
 versioned manifest, read-only API contracts and failure rules used by external apps. Integrations preserve canonical
